@@ -1,0 +1,73 @@
+---
+title: "Starting with R and RStudio"
+author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+date: ""
+output: 
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Why R and RStudio Desktop?
+
+In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Dekstop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Dekstop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
+
+In the video below, I'll introduce you to R and RStudio Dekstop and talk about the importance of adopting these tools in our research analysis workflows.
+
+&nbsp;&nbsp;
+
+[Link to YouTube talk here]
+
+&nbsp;&nbsp;
+
+If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/why_r_and_rstudio_desktop.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to R and RStudio Desktop slides](../images/r_and_rstudio.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
+
+</center>
+
+&nbsp;&nbsp;
+
+Below is a video of a great talk by J.J. Allaire, entrepreneur and founder of RStudio (and other organizations). This video is from rstudio::conf 2020 and in it J.J. talks about his journey from being a Political Scientist, how he got involved in R, and the importance of Open Source in the context of Reproducible Data Science. If you click on the image, you'll be taken to the RStudio website where you can watch the recording. If you're interested, you might like to look at some of the other videos on the RStudio site.  
+
+&nbsp;&nbsp;
+
+[![Link to JJ Allaire's talk on Open Source Software for Data Science](../images/jj_allaire.png)](https://rstudio.com/resources/rstudioconf-2020/open-source-software-for-data-science/)
+
+&nbsp;&nbsp;
+
+# Getting started with R and RStudio Desktop
+
+In this next video I will show you how to install R (the language) and RStudio Desktop (the IDE for working with the language). You can download R from [here](https://www.stats.bris.ac.uk/R/) for a variety of platforms including Mac OS, Windows, and Ubuntu. To download the free RStudio desktop just go to [here](https://rstudio.com/products/rstudio/download/). I run R on both Mac OS and Ubuntu, so if you have any installation problems with those operating systems just let me know. 
+
+&nbsp;&nbsp;
+
+[Link to YouTube talk here]
+
+&nbsp;&nbsp;
+
+If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/getting_started.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing
+)
+
+</center>
+
+&nbsp;&nbsp;
+
+# Good coding style
+ 
+# Reading in data
