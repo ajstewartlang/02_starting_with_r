@@ -45,7 +45,7 @@ Below is a video of a great talk by J.J. Allaire, entrepreneur and founder of RS
 
 &nbsp;&nbsp;
 
-# Getting started with R and RStudio Desktop
+# Getting Started
 
 In this next video I will show you how to install R (the language) and RStudio Desktop (the IDE for working with the language). You can download R from [here](https://www.stats.bris.ac.uk/R/) for a variety of platforms including Mac OS, Windows, and Ubuntu. To download the free RStudio desktop just go to [here](https://rstudio.com/products/rstudio/download/). I run R on both Mac OS and Ubuntu, so if you have any installation problems with those operating systems just let me know. 
 
@@ -55,7 +55,7 @@ In this next video I will show you how to install R (the language) and RStudio D
 
 &nbsp;&nbsp;
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/getting_started.pdf).
+You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/getting_started.pdf).
 
 &nbsp;&nbsp;
 
@@ -68,6 +68,25 @@ If you have a Google account, you can also view and download the slides in a ran
 
 &nbsp;&nbsp;
 
-# Good coding style
+# Good Coding Style
  
-# Reading in data
+# Reading in Data
+
+One of the tasks that R learners tend to find the hardest is loading their data. In this video, I show you the two ways we will be mainly using in this unit to load our data. All the data we will be working with is in *rectangular* format - in other words, data with rows and columns, and with one observation per cell. I will show you how to laod data that's sitting on your own machine, and how to load data that's sitting on a webpage.
+
+&nbsp;&nbsp;
+
+[Link to YouTube talk here]
+
+&nbsp;&nbsp;
+
+You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/loading_data.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to loading data slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing
+)
+
+</center>
