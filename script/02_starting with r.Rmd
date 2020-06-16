@@ -68,6 +68,17 @@ You can also view and download the slides in a range of formats by clicking on t
 
 &nbsp;&nbsp;
 
+# Good Project Management
+
+When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come onto next). There's a great paper on project management in data analysis by Gregg Wilson, Jenny Bryan and others that you can read by clicking the image below.
+
+&nbsp;&nbsp;
+
+[![Link to Gregg Wilson et al paper](../images/wilson_paper.png)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable
+)
+
+&nbsp;&nbsp;
+
 # Good Coding Style
 
 In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively. 
@@ -106,13 +117,12 @@ One of the tasks that R learners tend to find the hardest is loading their data.
 
 &nbsp;&nbsp;
 
-You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/loading_data.pdf).
+You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/reading_in_data.pdf).
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to loading data slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing
-)
+[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](https://docs.google.com/presentation/d/1g59NKvZ6JSszo1Z0pYOxKRgN44p-miepZ72Tooq8EnM/edit?usp=sharing)
 
 </center>
