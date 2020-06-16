@@ -69,7 +69,33 @@ You can also view and download the slides in a range of formats by clicking on t
 &nbsp;&nbsp;
 
 # Good Coding Style
- 
+
+In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively. 
+
+&nbsp;&nbsp;
+
+[Link to YouTube talk here]
+
+&nbsp;&nbsp;
+
+You can have a look at the helpful Tidyverse Style Guide [here](https://style.tidyverse.org).
+
+If you want to make your code and data open (and you really should unless there's a good reason whynot to do so), it's important that license it properly to allow others to (re)use and remix it. For my own work, I tend to use the most permissive license that I can. My 'go to' licenses are the [MIT License](https://opensource.org/licenses/MIT), and the [Creative Commons License CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
+
+You can use [this handy guide](https://choosealicense.com) if you need help choosing the right license for your own work.
+
+You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/good_coding_style.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](https://docs.google.com/presentation/d/1ZNnQwgHx0EuWcmfC2ZovSZjoaPP3eUOvdOFF_98H1oI/edit?usp=sharing)
+
+</center>
+
+&nbsp;&nbsp;
+
 # Reading in Data
 
 One of the tasks that R learners tend to find the hardest is loading their data. In this video, I show you the two ways we will be mainly using in this unit to load our data. All the data we will be working with is in *rectangular* format - in other words, data with rows and columns, and with one observation per cell. I will show you how to laod data that's sitting on your own machine, and how to load data that's sitting on a webpage.
