@@ -15,9 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Why R and RStudio Desktop?
 
-In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Dekstop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Dekstop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
+In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Dekstop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Desktop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
 
-In the video below, I'll introduce you to R and RStudio Dekstop and talk about the importance of adopting these tools in our research analysis workflows.
+In the video below, I'll introduce you to R and RStudio Desktop and talk about the importance of adopting these tools in our research analysis workflows.
 
 &nbsp;&nbsp;
 
@@ -47,7 +47,7 @@ Below is a video of a great talk by J.J. Allaire, entrepreneur and founder of RS
 
 # Getting Started
 
-In this next video I will show you how to install R (the language) and RStudio Desktop (the IDE for working with the language). You can download R from [here](https://www.stats.bris.ac.uk/R/) for a variety of platforms including Mac OS, Windows, and Ubuntu. To download the free RStudio desktop just go to [here](https://rstudio.com/products/rstudio/download/). I run R on both Mac OS and Ubuntu, so if you have any installation problems with those operating systems just let me know. 
+In this next video I will show you how to install R (the language) and RStudio Desktop (the IDE for working with the language). You can download R from [here](https://www.stats.bris.ac.uk/R/) for a variety of platforms including Mac OS, Windows, and Ubuntu. To download free RStudio Desktop just go to [here](https://rstudio.com/products/rstudio/download/). 
 
 &nbsp;&nbsp;
 
@@ -70,7 +70,7 @@ You can also view and download the slides in a range of formats by clicking on t
 
 # Good Project Management
 
-When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come onto next). There's a great paper on project management in data analysis by Gregg Wilson, Jenny Bryan and others that you can read by clicking the image below.
+When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come to next). There's a great paper on project management in data analysis by Gregg Wilson, Jenny Bryan and others that you can read by clicking the image below.
 
 &nbsp;&nbsp;
 
@@ -81,7 +81,7 @@ When you are doing data analysis using R, it's important to use a sensible struc
 
 # Good Coding Style
 
-In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively. 
+In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding style early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively (and others will find it easier to work with you). 
 
 &nbsp;&nbsp;
 
@@ -91,7 +91,7 @@ In the following video I'll talk a little about good coding style. It's importan
 
 You can have a look at the helpful Tidyverse Style Guide [here](https://style.tidyverse.org).
 
-If you want to make your code and data open (and you really should unless there's a good reason whynot to do so), it's important that license it properly to allow others to (re)use and remix it. For my own work, I tend to use the most permissive license that I can. My 'go to' licenses are the [MIT License](https://opensource.org/licenses/MIT), and the [Creative Commons License CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
+If you want to make your code and data open (and you really should unless there's a good reason not to do so), it's important to license it properly to allow others to (re)use and remix it. For my own work, I tend to use the most permissive license that I can. My 'go to' licenses are the [MIT License](https://opensource.org/licenses/MIT), and the [Creative Commons License CC-BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
 
 You can use [this handy guide](https://choosealicense.com) if you need help choosing the right license for your own work.
 
@@ -109,7 +109,7 @@ You can also view and download the slides in a range of formats by clicking on t
 
 # Reading in Data
 
-One of the tasks that R learners tend to find the hardest is loading their data. In this video, I show you the two ways we will be mainly using in this unit to load our data. All the data we will be working with is in *rectangular* format - in other words, data with rows and columns, and with one observation per cell. I will show you how to laod data that's sitting on your own machine, and how to load data that's sitting on a webpage.
+One of the tasks that R learners tend to find the hardest is loading their data. In this video, I show you the two main ways we will be using in this unit to load our data. All the data we will be working with is in *rectangular* format - in other words, data with rows and columns, and with one observation per cell. I will show you how to load data that's sitting on your own machine, and how to load data that's sitting on a webpage.
 
 &nbsp;&nbsp;
 
