@@ -13,8 +13,7 @@ library(patchwork) # needed to combine our 4 plots at the end
 # read in data 
 ufo_sightings <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-06-25/ufo_sightings.csv")
 
-# bar plot of top 10 US states with number of sightings in each state
-# the openintro::abbr2state() function converts state abbreviations to full names
+# plot of top 10 US states with number of sightings in each state
 plot1 <- ufo_sightings %>%
   filter(!is.na(state)) %>%
   mutate(state = str_to_upper(state)) %>%
@@ -32,7 +31,7 @@ plot1 <- ufo_sightings %>%
   theme_minimal() +
   theme(text = element_text(size = 15))
 
-# work out the top 10 states with UFO sightings
+# work out the top 10 states with most UFO sightings
 top_states <- ufo_sightings %>%
   filter(!is.na(state)) %>%
   group_by(state) %>%
@@ -56,7 +55,7 @@ plot2 <- tidied_ufo %>%
   guides(fill = FALSE) +
   theme(text = element_text(size = 15))
 
-# bar plot of top 10 UFO shapes spotted in California
+# plot of top 10 UFO shapes spotted in California
 plot3 <- tidied_ufo %>%
   filter(state == "ca") %>%
   filter(ufo_shape != "other") %>%
@@ -78,4 +77,4 @@ plot3 <- tidied_ufo %>%
 # Put plots together
 my_plot <- (plot1 + plot3) / (plot2)
 
-ggsave("ufo_plot.jpg", plot = my_plot, width = 12, height = 10)
+ggsave("images/ufo_plot.jpg", plot = my_plot, width = 12, height = 10)
