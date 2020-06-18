@@ -1,4 +1,3 @@
-# RUM Virtual Meeting 18/03/2020
 # Working with the Tidy Tuesday UFO dataset
 
 library(tidyverse) # behold all things tidy
