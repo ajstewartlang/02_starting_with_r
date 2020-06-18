@@ -135,8 +135,11 @@ You're now going to run your first R script. We will create three visualisations
 
 &nbsp;&nbsp;
 
-[Link to YouTube talk here]
+<center>
 
+<iframe width="560" height="315" src="https://youtube.com/embed/EVzGEtkSbFI" frameborder="0" allowfullscreen></iframe>
+
+</center>
 &nbsp;&nbsp;
 
 Once you have installed the packages, copy and paste the following code into your new R script. Run the code in the same way I show you in the video. Does your visualisation look like the one I generated?
