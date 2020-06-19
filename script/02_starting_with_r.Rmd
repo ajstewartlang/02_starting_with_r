@@ -224,3 +224,7 @@ ggsave("ufo_plot.jpg", plot = my_plot, width = 12, height = 10)
 [![UFO visualisation](../images/ufo_plot.jpg){width=100%}
 
 </center>
+
+## Improve this Workshop
+
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/02_starting_with_r). 
