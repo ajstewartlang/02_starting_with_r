@@ -13,25 +13,29 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Why R and RStudio Desktop?
+# Why R?
 
 In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Dekstop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Desktop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
 
-In the video below, I'll introduce you to R and RStudio Desktop and talk about the importance of adopting these tools in our research analysis workflows.
-
-&nbsp;&nbsp;
-
-[Link to YouTube talk here]
-
-&nbsp;&nbsp;
-
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/why_r_and_rstudio_desktop.pdf).
+In the video below, I'll introduce you to R and talk about the importance of adopting such tools in our research analysis workflows.
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/r_and_rstudio.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
+<iframe width="560" height="315" src="https://youtube.com/embed/MtlwWQ16nZY" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/why_r.pdf).
+
+&nbsp;&nbsp;
+
+<center>
+
+[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
 
 </center>
 
