@@ -55,7 +55,11 @@ In this next video I will show you how to install R (the language) and RStudio D
 
 &nbsp;&nbsp;
 
-[Link to YouTube talk here]
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/HV1rs0ZbDYo" frameborder="0" allowfullscreen></iframe>
+
+</center>
 
 &nbsp;&nbsp;
 
@@ -89,7 +93,11 @@ In the following video I'll talk a little about good coding style. It's importan
 
 &nbsp;&nbsp;
 
-[Link to YouTube talk here]
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/U6LuufvDO_c" frameborder="0" allowfullscreen></iframe>
+
+</center>
 
 &nbsp;&nbsp;
 
@@ -117,7 +125,11 @@ One of the tasks that R learners tend to find the hardest is loading their data.
 
 &nbsp;&nbsp;
 
-[Link to YouTube talk here]
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/RYQrABVQxUk" frameborder="0" allowfullscreen></iframe>
+
+</center>
 
 &nbsp;&nbsp;
 
