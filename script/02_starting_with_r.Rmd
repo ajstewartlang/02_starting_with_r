@@ -23,7 +23,7 @@ In the video below, I'll introduce you to R and talk about the importance of ado
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/MtlwWQ16nZY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/-YrMqaFXJnA" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -141,7 +141,7 @@ You're now going to run your first R script. We will create three visualisations
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/859HSFfQ6kI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/7J1KQGhGzDk" frameborder="0" allowfullscreen></iframe>
 
 </center>
 &nbsp;&nbsp;
