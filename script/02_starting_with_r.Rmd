@@ -1,5 +1,5 @@
 ---
-title: "Starting with R and RStudio"
+title: "Starting with R and RStudio Desktop"
 author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
 date: ""
 output: 
