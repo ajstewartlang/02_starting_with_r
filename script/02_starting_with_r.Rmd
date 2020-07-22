@@ -53,7 +53,7 @@ Below is a video of a great talk by J.J. Allaire, entrepreneur and founder of RS
 
 In this next video I will show you how to install R (the language) and RStudio Desktop (the IDE for working with the language). You can download R from [here](https://www.stats.bris.ac.uk/R/) for a variety of platforms including Mac OS, Windows, and Ubuntu. To download free RStudio Desktop just go to [here](https://rstudio.com/products/rstudio/download/). 
 
-If you are using a Chromebook, or are having difficulties installing R and RStudio Desktop on your computer, you can use [RStudio Cloud](https://rstudio.cloud/) to run the RStudio environment in your browser. You'll need to sign up - there is a free plan available which allows you to use the RStudio Cloud for 15 hours per month. 
+If you are using a Chromebook, or have a tablet, or are having difficulties installing R and RStudio Desktop on your computer, you can use [RStudio Cloud](https://rstudio.cloud/) to run the RStudio environment in your browser. You'll need to sign up - there is a free plan available which allows you to use the RStudio Cloud for 15 hours per month. 
 
 &nbsp;&nbsp;
 
