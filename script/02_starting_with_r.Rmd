@@ -164,7 +164,6 @@ Once you have installed the packages, copy and paste the following code into you
 
 ```{r, eval=FALSE}
 library(tidyverse) # load the tidyverse
-library(ggrepel) # needed to ensure text labels don't overlap
 library(patchwork) # needed to combine our 4 plots at the end
 
 # read in data 
