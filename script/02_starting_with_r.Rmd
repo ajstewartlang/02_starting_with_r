@@ -29,13 +29,13 @@ In the video below, I'll introduce you to R and talk about the importance of ado
 
 &nbsp;&nbsp;
 
-If you have a Google account, you can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/why_r.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
+[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](../slides/why_r.pdf)
 
 </center>
 
@@ -65,14 +65,13 @@ If you are using a Chromebook, or have a tablet, or are having difficulties inst
 
 &nbsp;&nbsp;
 
-You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/getting_started.pdf).
+You can download the slides in .pdf format by clicking on the image below.
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing
-)
+[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](../slides/getting_started.pdf)
 
 </center>
 
@@ -109,13 +108,13 @@ If you want to make your code and data open (and you really should unless there'
 
 You can use [this handy guide](https://choosealicense.com) if you need help choosing the right license for your own work.
 
-You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/good_coding_style.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](https://docs.google.com/presentation/d/1ZNnQwgHx0EuWcmfC2ZovSZjoaPP3eUOvdOFF_98H1oI/edit?usp=sharing)
+[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](../slides/good_coding_style.pdf)
 
 </center>
 
@@ -135,13 +134,13 @@ One of the tasks that R learners tend to find the hardest is loading their data.
 
 &nbsp;&nbsp;
 
-You can also view and download the slides in a range of formats by clicking on the image below. If you don't have a Google account, you can download the slides in .pdf format by [clicking here](../slides/reading_in_data.pdf).
+You can download the slides in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](https://docs.google.com/presentation/d/1g59NKvZ6JSszo1Z0pYOxKRgN44p-miepZ72Tooq8EnM/edit?usp=sharing)
+[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](../slides/reading_in_data.pdf)
 
 </center>
 
@@ -149,7 +148,7 @@ You can also view and download the slides in a range of formats by clicking on t
 
 # Your First R Script
 
-You're now going to run your first R script. We will create three visualisations of UFO sightings in the US using a database of more than 80,000 UFO sightings over the years. Before you run the code, you will need to install three packages onto your computer - they are `tidyverse`, `ggrepel`, and `patchwork`. The code for installing each packages needs to be typed into the Console in RStudio Desktop. Watch the following video to see me create the .Rproj file for this example, then install the packages before running the code.
+You're now going to run your first R script. We will create three visualisations of UFO sightings in the US using a database of more than 80,000 UFO sightings over the years. Before you run the code, you will need to install three packages onto your computer - they are `tidyverse` and `patchwork`. The code for installing each packages needs to be typed into the Console in RStudio Desktop. Watch the following video to see me create the .Rproj file for this example, then install the packages before running the code.
 
 &nbsp;&nbsp;
 
