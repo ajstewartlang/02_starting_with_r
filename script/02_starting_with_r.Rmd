@@ -79,7 +79,7 @@ You can download the slides in .pdf format by clicking on the image below.
 
 # Good Project Management
 
-When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come to next). There's a great paper on project management in data analysis by Greg Wilson, Jenny Bryan and others that you can read by clicking the image below.
+When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come to next). There's a great paper on project management that you can read by clicking the image below.
 
 &nbsp;&nbsp;
 
