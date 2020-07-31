@@ -29,7 +29,7 @@ In the video below, I'll introduce you to R and talk about the importance of ado
 
 &nbsp;&nbsp;
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/why_r.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
@@ -65,8 +65,7 @@ If you are using a Chromebook, or have a tablet, or are having difficulties inst
 
 &nbsp;&nbsp;
 
-You can download the slides in .pdf format by clicking on the image below.
-
+You can download the slides in .odp format by clicking [here](../slides/getting_started.odp) and in .pdf format by clicking on the image below. 
 &nbsp;&nbsp;
 
 <center>
@@ -108,7 +107,7 @@ If you want to make your code and data open (and you really should unless there'
 
 You can use [this handy guide](https://choosealicense.com) if you need help choosing the right license for your own work.
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/good_coding_style.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
@@ -134,7 +133,7 @@ One of the tasks that R learners tend to find the hardest is loading their data.
 
 &nbsp;&nbsp;
 
-You can download the slides in .pdf format by clicking on the image below. 
+You can download the slides in .odp format by clicking [here](../slides/reading_in_data.odp) and in .pdf format by clicking on the image below. 
 
 &nbsp;&nbsp;
 
@@ -237,7 +236,7 @@ ggsave("ufo_plot.jpg", plot = my_plot, width = 12, height = 10)
 
 <center>
 
-[![UFO visualisation](../images/ufo_plot.jpg){width=100%}
+[![UFO visualisation](../images/ufo_plot.jpg)]{width=100%}
 
 </center>
 
