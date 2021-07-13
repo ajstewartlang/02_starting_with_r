@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Why R?
 
-In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Dekstop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Desktop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
+In this workshop I will introduce you to the language, [R](https://www.r-project.org/about.html), and [RStudio Desktop](https://rstudio.com), the integrated development environment (IDE) that you will use to write reproducible code involving the wrangling, visualization, summary, and statistical modelling of your data. Both R and RStudio Desktop are examples of [Open Source Software](https://opensource.com/resources/what-open-source). Open Source is key to producing reproducible research as Open Source software is free and available to all.
 
 In the video below, I'll introduce you to R and talk about the importance of adopting such tools in our research analysis workflows.
 
@@ -23,19 +23,15 @@ In the video below, I'll introduce you to R and talk about the importance of ado
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/-YrMqaFXJnA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/GKJmY_YebhU" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
 
-You can download the slides in .odp format by clicking [here](../slides/why_r.odp) and in .pdf format by clicking on the image below. 
-
-&nbsp;&nbsp;
-
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](../slides/why_r.pdf)
+[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
 
 </center>
 
@@ -59,24 +55,35 @@ If you are using a Chromebook, or have a tablet, or are having difficulties inst
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/HV1rs0ZbDYo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed//nsu2WQIeP5I" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
-&nbsp;&nbsp;
-
-You can download the slides in .odp format by clicking [here](../slides/getting_started.odp) and in .pdf format by clicking on the image below. 
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](../slides/getting_started.pdf)
+[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing)
 
 </center>
 
 &nbsp;&nbsp;
 
-# Good Project Management
+# Customising RStudio
+
+You can customise the look of the RStudio IDE to make it work best for you. In this video I show you some of the possible customisations you can use.
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/fwonkj-hZYc" data-external="1" frameborder="0" allowfullscreen></iframe>
+
+</center>
+
+&nbsp;&nbsp;
+
+# Keeping Things Organised
 
 When you are doing data analysis using R, it's important to use a sensible structure for your folders and files. As you saw in the video above, creating a new project with a .Rproj file is the easiest way to this is using RStudio Desktop. Good file management is as important as good coding style (which we'll come to next). There's a great paper on project management that you can read by clicking the image below.
 
@@ -84,6 +91,14 @@ When you are doing data analysis using R, it's important to use a sensible struc
 
 [![Link to Greg Wilson et al paper](../images/wilson_paper.png)](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable
 )
+
+&nbsp;&nbsp;
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/JslVB6Vfn0Q" data-external="1" frameborder="0" allowfullscreen></iframe>
+
+</center>
 
 &nbsp;&nbsp;
 
@@ -95,7 +110,7 @@ In the following video I'll talk a little about good coding style. It's importan
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/U6LuufvDO_c" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/U6LuufvDO_c" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -107,13 +122,11 @@ If you want to make your code and data open (and you really should unless there'
 
 You can use [this handy guide](https://choosealicense.com) if you need help choosing the right license for your own work.
 
-You can download the slides in .odp format by clicking [here](../slides/good_coding_style.odp) and in .pdf format by clicking on the image below. 
-
 &nbsp;&nbsp;
 
 <center>
 
-[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](../slides/good_coding_style.pdf)
+[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](https://docs.google.com/presentation/d/1ZNnQwgHx0EuWcmfC2ZovSZjoaPP3eUOvdOFF_98H1oI/edit?usp=sharing)
 
 </center>
 
@@ -127,19 +140,15 @@ One of the tasks that R learners tend to find the hardest is loading their data.
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/RYQrABVQxUk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/RYQrABVQxUk" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
 &nbsp;&nbsp;
 
-You can download the slides in .odp format by clicking [here](../slides/reading_in_data.odp) and in .pdf format by clicking on the image below. 
-
-&nbsp;&nbsp;
-
 <center>
 
-[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](../slides/reading_in_data.pdf)
+[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](https://docs.google.com/presentation/d/1g59NKvZ6JSszo1Z0pYOxKRgN44p-miepZ72Tooq8EnM/edit?usp=sharing)
 
 </center>
 
@@ -153,7 +162,7 @@ You're now going to run your first R script. We will create three visualisations
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/7J1KQGhGzDk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/7J1KQGhGzDk" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 &nbsp;&nbsp;
