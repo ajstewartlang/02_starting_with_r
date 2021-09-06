@@ -186,7 +186,7 @@ plot1 <- ufo_sightings %>%
   ggplot(aes(x = reorder(state, n), y = n, fill = state)) +
   geom_col() + 
   coord_flip() +
-  guides(fill = FALSE) + 
+  guides(fill = "none") + 
   labs(title = "Top 10 States for UFO Sightings",
        x = NULL, 
        y = NULL) +
@@ -214,8 +214,8 @@ plot2 <- tidied_ufo %>%
   theme_void() +
   coord_cartesian() +
   labs(title = "Sites of UFO Sightings in the US") +
-  guides(colour = FALSE) +
-  guides(fill = FALSE) +
+  guides(colour = "none") +
+  guides(fill = "none") +
   theme(text = element_text(size = 15))
 
 # plot of top 10 UFO shapes spotted in California
@@ -230,7 +230,7 @@ plot3 <- tidied_ufo %>%
   ggplot(aes(x = reorder(ufo_shape, n), y = n, fill = ufo_shape)) +
   geom_col() + 
   coord_flip() +
-  guides(fill = FALSE) + 
+  guides(fill = "none") + 
   labs(title = "Top 10 UFO Shapes spotted in California",
        x = NULL, 
        y = NULL) +
