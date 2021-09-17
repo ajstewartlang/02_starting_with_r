@@ -134,7 +134,7 @@ You can use [this handy guide](https://choosealicense.com) if you need help choo
 
 # Your First R Script
 
-You're now going to run your first R script. We will create three visualisations of UFO sightings in the US using a database of more than 80,000 UFO sightings over the years. Before you run the code, you will need to install three packages onto your computer - they are `tidyverse` and `patchwork`. The code for installing each packages needs to be typed into the Console in RStudio Desktop. Watch the following video to see me create the .Rproj file for this example, then install the packages before running the code.
+You're now going to run your first R script. We will create three visualisations of UFO sightings in the US using a database of more than 80,000 UFO sightings over the years. Before you run the code, you will need to install three packages onto your computer - they are `tidyverse` and `patchwork`. 
 
 &nbsp;&nbsp;
 
@@ -145,7 +145,7 @@ You're now going to run your first R script. We will create three visualisations
 </center>
 &nbsp;&nbsp;
 
-Once you have installed the packages, copy and paste the following code into your new R script. Run the code in the same way I show you in the video. Does your visualisation look like the one I generated?
+Once you have installed the packages, type the following code into a new R script. Run the code in the same way I show you in the video. Does your visualisation look like the one I generated?
 
 ```{r, eval=FALSE}
 library(tidyverse) # load the tidyverse
