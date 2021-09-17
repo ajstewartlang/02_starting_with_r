@@ -104,7 +104,7 @@ When you are doing data analysis using R, it's important to use a sensible struc
 
 # Good Coding Style
 
-In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding style early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively (and others will find it easier to work with you). 
+In the following video I'll talk a little about good coding style. It's important when you're writing analysis scripts that your code is understandable by others, and by future you. If you get into the habit of good coding style early on, it will make things a lot easier in the long run - and you'll find it easier to work collaboratively as others will find it easier to work with you. 
 
 &nbsp;&nbsp;
 
@@ -132,28 +132,6 @@ You can use [this handy guide](https://choosealicense.com) if you need help choo
 
 &nbsp;&nbsp;
 
-# Reading in Data
-
-One of the tasks that R learners tend to find the hardest is loading their data. In this video, I show you the two main ways we will be using in this unit to load our data. All the data we will be working with is in *rectangular* format - in other words, data with rows and columns, and with one observation per cell. I will show you how to load data that's sitting on your own machine, and how to load data that's sitting on a webpage.
-
-&nbsp;&nbsp;
-
-<center>
-
-<iframe width="560" height="315" src="https://youtube.com/embed/RYQrABVQxUk" data-external="1" frameborder="0" allowfullscreen></iframe>
-
-</center>
-
-&nbsp;&nbsp;
-
-<center>
-
-[![Link to reading in data slides](../images/reading_in_data.png){width=75%}](https://docs.google.com/presentation/d/1g59NKvZ6JSszo1Z0pYOxKRgN44p-miepZ72Tooq8EnM/edit?usp=sharing)
-
-</center>
-
-&nbsp;&nbsp;
-
 # Your First R Script
 
 You're now going to run your first R script. We will create three visualisations of UFO sightings in the US using a database of more than 80,000 UFO sightings over the years. Before you run the code, you will need to install three packages onto your computer - they are `tidyverse` and `patchwork`. The code for installing each packages needs to be typed into the Console in RStudio Desktop. Watch the following video to see me create the .Rproj file for this example, then install the packages before running the code.
@@ -162,7 +140,7 @@ You're now going to run your first R script. We will create three visualisations
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/7J1KQGhGzDk" data-external="1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ABgJfJYmWOs" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 </center>
 &nbsp;&nbsp;
@@ -214,8 +192,6 @@ plot2 <- tidied_ufo %>%
   theme_void() +
   coord_cartesian() +
   labs(title = "Sites of UFO Sightings in the US") +
-  guides(colour = "none") +
-  guides(fill = "none") +
   theme(text = element_text(size = 15))
 
 # plot of top 10 UFO shapes spotted in California
